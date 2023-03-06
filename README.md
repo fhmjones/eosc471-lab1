@@ -6,6 +6,7 @@
 ### Lab 1:
 - Matplotlib version uploaded with notes on issues 
 - Plotly Version uploaded with notes on issues 
+- NOTE, as of March 6, 2023 (FJ), both the matplotlib and plotly versions do run on the open.jupyter.ubc.ca hub. 
 
 ## Differences in plotting libraries
 |                                        | Plotly                                               | Matplotlib                                                                                                                                                                                           |
